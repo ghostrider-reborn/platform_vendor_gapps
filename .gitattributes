@@ -1,0 +1,2 @@
+priv-app/PrebuiltGmsCorePi/PrebuiltGmsCorePi.apk filter=lfs diff=lfs merge=lfs -text
+app/WallpapersBReel2018/WallpapersBReel2018.apk filter=lfs diff=lfs merge=lfs -text
